@@ -10,6 +10,7 @@ Uses SQL, WMI, SOAP and REST to export the following objects:
 * PowerBi PBIX files
 * Mobile Reports
 * KPIs
+* Shared Schedules
 * Subscriptions
 * Users
 * Folder Tree Structure
@@ -21,6 +22,7 @@ Companion Import Script will restore these objects in the following order:
 * Users
 * FolderTree Structure
 * RDL Reports with embedded DataSources/DataSets
+* Shared Schedules
 * Subscriptions
 * Folder and Report Permissions
 

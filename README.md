@@ -20,11 +20,12 @@ Uses SQL, WMI, SOAP and REST to export the following objects:
 
 Companion Import Script will restore these objects in the following order:
 * Users
-* FolderTree Structure
-* RDL Reports with embedded DataSources/DataSets
+* FolderTree Structure with Permissions/Inheritance
 * Shared Schedules
+* Shared Data Sources
+* Shared DataSets
+* RDL Reports with embedded Data Sources/DataSets and Permissions/Inheritance
 * Subscriptions
-* Folder and Report Permissions
 
 Must be Sysadmin on both SQL servers for this to work
 

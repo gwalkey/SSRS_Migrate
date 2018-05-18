@@ -1,6 +1,10 @@
 # SSRS_Migrate
 Migrate SSRS Objects to New Server
 
+Requirements: 
+* Active Directory Powershell Module (RSAT)
+* Powershell 5.1
+
 Powershell scripts to Migrate SSRS Objects from a 2008+ Servers to anything newer.
 
 Uses SQL, WMI, SOAP and REST to export the following objects:

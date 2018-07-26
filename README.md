@@ -7,7 +7,7 @@ Requirements:
 * Active Directory Powershell Module (RSAT)
 * Powershell 5.1
 
-Powershell scripts to Migrate SSRS Objects from a 2008+ Servers to anything newer.
+Powershell scripts to Migrate SSRS Objects from 2008+ Servers to anything newer.
 
 Uses SQL, WMI, SOAP and REST to export the following objects:
 * RDL Reports with embedded DataSources/DataSets

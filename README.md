@@ -33,4 +33,4 @@ Companion Import Script will restore these objects in the following order:
 
 Must be Sysadmin on both SQL servers for this to work
 
-Please send FeedBack to dev at insyncva dhot com
+Please send FeedBack to dev at insyncva dot com

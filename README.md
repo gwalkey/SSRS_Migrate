@@ -3,7 +3,7 @@ Migrate SQL Server Reporting Services Objects to New Server
 
 Requirements: 
 * Active Directory Powershell Module (RSAT)
-* Powershell 5.1
+* Powershell for Windows 5.1
 
 Powershell scripts to Migrate SSRS Objects from 2008+ Servers to 2017+
 

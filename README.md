@@ -1,13 +1,11 @@
 # SSRS_Migrate
 Migrate SQL Server Reporting Services Objects to New Server
 
-(Because Microsoft cant create a valid upgrade tool between 2016 and 2017)
-
 Requirements: 
 * Active Directory Powershell Module (RSAT)
 * Powershell 5.1
 
-Powershell scripts to Migrate SSRS Objects from 2008+ Servers to anything newer.
+Powershell scripts to Migrate SSRS Objects from 2008+ Servers to 2017+
 
 Uses SQL, WMI, SOAP and REST to export the following objects:
 * RDL Reports with embedded DataSources/DataSets
